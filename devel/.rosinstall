@@ -1,2 +1,2 @@
 - setup-file:
-    local-name: /home/avp/avp_project/devel/setup.sh
+    local-name: /home/avp/avp_ros/devel/setup.sh

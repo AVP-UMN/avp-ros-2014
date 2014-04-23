@@ -1,6 +1,0 @@
-/home/avp/avp_project/build/CMakeFiles/clean_test_results.dir
-/home/avp/avp_project/build/CMakeFiles/doxygen.dir
-/home/avp/avp_project/build/gtest/CMakeFiles/gtest.dir
-/home/avp/avp_project/build/gtest/CMakeFiles/gtest_main.dir
-/home/avp/avp_project/build/CMakeFiles/run_tests.dir
-/home/avp/avp_project/build/CMakeFiles/tests.dir
