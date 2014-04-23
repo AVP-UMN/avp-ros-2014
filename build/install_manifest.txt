@@ -1,0 +1,9 @@
+/home/avp/avp_project/install/.catkin
+/home/avp/avp_project/install/_setup_util.py
+/home/avp/avp_project/install/env.sh
+/home/avp/avp_project/install/setup.bash
+/home/avp/avp_project/install/setup.sh
+/home/avp/avp_project/install/setup.zsh
+/home/avp/avp_project/install/.rosinstall
+/home/avp/avp_project/install/etc/catkin/profile.d/05.catkin_make.bash
+/home/avp/avp_project/install/etc/catkin/profile.d/05.catkin_make_isolated.bash
