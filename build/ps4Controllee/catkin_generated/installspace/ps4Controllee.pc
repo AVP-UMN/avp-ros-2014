@@ -1,0 +1,8 @@
+prefix=/home/avp/avp-repo/avp-ros/install
+
+Name: ps4Controllee
+Description: Description of ps4Controllee
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/avp/avp-repo/avp-ros/install/lib 
+Requires: 

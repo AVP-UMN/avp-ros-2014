@@ -1,0 +1,8 @@
+prefix=/home/avp/avp-repo/avp-ros/devel
+
+Name: ps4Controller
+Description: Description of ps4Controller
+Version: 0.0.0
+Cflags: -I/home/avp/avp-repo/avp-ros/devel/include
+Libs: -L/home/avp/avp-repo/avp-ros/devel/lib 
+Requires: message_runtime
